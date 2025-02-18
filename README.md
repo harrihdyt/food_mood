@@ -3,6 +3,8 @@
 A new Flutter project.
 
 ## Getting Started
+emergency number farahh
+‪+62 812‑4969‑7339‬
 
 This project is a starting point for a Flutter application.
 
